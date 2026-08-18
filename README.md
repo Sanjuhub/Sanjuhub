@@ -7,7 +7,7 @@
 Building scalable backend systems, designing reliable APIs, and solving complex engineering problems with simplicity.
 
 <p>
-  <a href="https://sanjay-portfolio-website.vercel.app">Portfolio</a> •
+  <a href="https://portfolite-sanjay.vercel.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/findmesektor/">LinkedIn</a>
 </p>
 
