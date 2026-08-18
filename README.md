@@ -7,8 +7,8 @@
 Building scalable backend systems, designing reliable APIs, and solving complex engineering problems with simplicity.
 
 <p>
-  <a href="https://portfolite-sanjay.vercel.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/findmesektor/">LinkedIn</a>
+  <a href="https://portfolite-sanjay.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/findmesektor/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Sanjuhub&style=flat-square" />
