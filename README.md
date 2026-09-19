@@ -143,7 +143,7 @@ Current focus:
 
 <div align="center">
 
-<a href="https://sanjay-portfolio-website.vercel.app">🌐 Portfolio</a> •
+<a href="https://portfolite-sanjay.vercel.app">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/findmesektor/">💼 LinkedIn</a>
 
 </div>
