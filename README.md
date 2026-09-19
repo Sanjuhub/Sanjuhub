@@ -70,7 +70,7 @@ I enjoy building systems that are:
 
 Personal portfolio showcasing my projects, experience, and technical journey.
 
-🔗 https://sanjay-portfolio-website.vercel.app
+🔗 [https://portfolite-sanjay.vercel.app](https://portfolite-sanjay.vercel.app)
 
 ---
 
